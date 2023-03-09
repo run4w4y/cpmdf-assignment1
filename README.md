@@ -1,16 +1,16 @@
 # assginment1
 
-Flutter course assignment1
+Flutter course assignment 1
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A small application that displays a random Chuck Norris joke
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](./screenshots/app_screenshot_0.png)
+![Screenshot 2](./screenshots/app_screenshot_1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APK
+
+[Download APK](https://github.com/run4w4y/cpmdf-assignment1/releases/download/0.0.1/app-release.apk)
